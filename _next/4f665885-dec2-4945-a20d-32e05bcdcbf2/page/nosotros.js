@@ -1,0 +1,1 @@
+module.exports=__NEXT_REGISTER_PAGE("/nosotros",function(){return{page:webpackJsonp([2],{231:function(o,e,n){o.exports=n(232)}},[231]).default}});
